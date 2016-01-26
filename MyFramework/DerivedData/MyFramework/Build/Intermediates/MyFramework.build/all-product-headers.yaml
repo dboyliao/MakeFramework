@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/DerivedData/MyFramework/Build/Products/Debug-iphoneos/MyFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MyFramework-Swift.h",
+          'external-contents': "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/DerivedData/MyFramework/Build/Products/Debug-iphoneos/MyFramework.framework/Headers/MyFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MyFramework.h",
+          'external-contents': "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/MyFramework/MyFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/DerivedData/MyFramework/Build/Products/Debug-iphoneos/MyFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/DerivedData/MyFramework/Build/Intermediates/MyFramework.build/Debug-iphoneos/MyFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

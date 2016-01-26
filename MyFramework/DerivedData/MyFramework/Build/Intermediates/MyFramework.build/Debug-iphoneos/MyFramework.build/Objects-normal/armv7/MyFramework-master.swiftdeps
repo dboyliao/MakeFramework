@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "020cc88c047c91887bf2a65d7a9fa80f"
+build_time: [507104934, 253030000]
+inputs:
+  "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/MyFramework/Logger.swift": [507104635, 0]

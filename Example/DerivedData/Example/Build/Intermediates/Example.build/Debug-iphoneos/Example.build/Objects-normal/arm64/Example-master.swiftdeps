@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "8df4b3b568fe744eee906f3b48701dfa"
+build_time: [507106071, 728408000]
+inputs:
+  "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/Example/Example/ViewController.swift": [507105252, 0]
+  "/Users/DboyLiao/Documents/Swift_Learn/MakeFramework/Example/Example/AppDelegate.swift": [507104450, 0]
